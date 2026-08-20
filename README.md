@@ -7,20 +7,20 @@ A personal portfolio styled An interactive pixel art cat terminal built with Rea
 ![TypeScript](https://img.shields.io/badge/TypeScript-5+-blue)
 ![Tailwind](https://img.shields.io/badge/Tailwind-4.0-cyan)
 
-## 🚀 Live Preview
+##  Live Preview
 currently down
 
-## ✨ Features
+##  Features
 
-- 🎨 **Animated Pixel Cat**: 64x64 pixel art cat with ear movement animations
-- 🌈 **Multiple Themes**: 6 beautiful color themes with dynamic error colors
-- 🖥️ **Terminal Interface**: Authentic terminal experience with command history
-- 🎭 **Hidden Easter Eggs**: Secret commands to interact with the cat
-- 📱 **Responsive Design**: Works on desktop and mobile devices
-- ⚡ **Real-time Updates**: Dynamic theme switching affects all previous messages
-- 🎯 **Glitch Effects**: Theme-specific error animations
+-  **Animated Pixel Cat**: 64x64 pixel art cat with ear movement animations
+-  **Multiple Themes**: 6 beautiful color themes with dynamic error colors
+-  **Terminal Interface**: Authentic terminal experience with command history
+-  **Hidden Easter Eggs**: Secret commands to interact with the cat
+- **Responsive Design**: Works on desktop and mobile devices
+-  **Real-time Updates**: Dynamic theme switching affects all previous messages
+-  **Glitch Effects**: Theme-specific error animations
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Installation
 
@@ -35,7 +35,7 @@ npm install
 npm start
 ```
 
-## 🎮 Commands
+##  Commands
 
 ### Main Commands
 
@@ -65,17 +65,17 @@ npm start
 | `echo <text>` | Echo text back |
 | `exit` | Try to exit (spoiler: you can't!) |
 
-### 🥚 Easter Egg Commands (Hidden)
+###  Easter Egg Commands (Hidden)
 
 These commands are not shown in the help menu - discover them by experimenting!
 
 | Command | Effect | Cat Display |
 |---------|--------|-------------|
-| `meow` | Cat meows loudly | "*meows loudly* 🐱" |
-| `purr` | Cat purrs contentedly | "*purring contentedly* 😸" |
-| `pet` | Pet the cat | "*enjoying head pets* 🥰" |
-| `boop` | Boop the cat's nose | "*nose has been booped* 👃" |
-| `treat` | Offer treats to the cat | "*waiting for treats* 🍖" |
+| `meow` | Cat meows loudly | "*meows loudly* " |
+| `purr` | Cat purrs contentedly | "*purring contentedly* " |
+| `pet` | Pet the cat | "*enjoying head pets* " |
+| `boop` | Boop the cat's nose | "*nose has been booped* " |
+| `treat` | Offer treats to the cat | "*waiting for treats* " |
 
 *Note: Easter egg effects appear under the pixel cat for 3 seconds*
 
@@ -142,7 +142,7 @@ The cat responds to easter egg commands with:
 └── README.md              # This file
 ```
 
-## 🎭 Error System
+##  Error System
 
 ### Theme-Specific Errors
 Each theme has unique error messages and colors:
@@ -156,7 +156,7 @@ Each theme has unique error messages and colors:
 ### Dynamic Color Updates
 When switching themes, all previous error messages automatically update to use the new theme's error color.
 
-## 🌟 Pro Tips
+##  Pro Tips
 
 1. **Explore Commands**: Try typing random things - you might discover hidden features!
 2. **Theme Switching**: Error messages change colors when you switch themes
@@ -166,7 +166,7 @@ When switching themes, all previous error messages automatically update to use t
 6. **Tab Completion**: Press Tab to autocomplete commands
 
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to contribute by:
 - Adding new themes
@@ -175,11 +175,11 @@ Feel free to contribute by:
 - Improving the terminal experience
 - Adding new features
 
-## 📝 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Inspired by classic terminal interfaces
 - Pixel art cat designed with love for cats
