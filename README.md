@@ -8,7 +8,7 @@ A personal portfolio styled An interactive pixel art cat terminal built with Rea
 ![Tailwind](https://img.shields.io/badge/Tailwind-4.0-cyan)
 
 ## 🚀 Live Preview
-> [Visit the Portfolio](https://gerhardus.netlify.app)  
+currently down
 
 ## ✨ Features
 
