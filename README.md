@@ -79,7 +79,7 @@ These commands are not shown in the help menu - discover them by experimenting!
 
 *Note: Easter egg effects appear under the pixel cat for 3 seconds*
 
-## 🎨 Available Themes
+##  Available Themes
 
 | Theme | Description | Error Color |
 |-------|-------------|-------------|
@@ -99,7 +99,6 @@ theme dracula
 theme chocolate
 # ... etc
 ```
-
 ## 🐱 Cat Features
 
 ### Animations
